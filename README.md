@@ -1,7 +1,6 @@
+![enter image description here](https://franceconnect.gouv.fr/images/fc_logo_v2.png)
 
-# QnAFCBot
-
-![qnabot](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/images/botframeworkarch.png)
+![enter image description here](https://2.bp.blogspot.com/-V3CtS3b1HAc/WWzaWvwJzVI/AAAAAAAABUc/0Od0YddweRUVbOt5OyRbd-6AhJJUwGQ1ACLcBGAs/s1600/Title.png)
 
 
 ## Use Azure app service editor
@@ -28,6 +27,8 @@ npm run azure-publish
 ## Use continuous integration
 
 If you have setup continuous integration, then your bot will automatically deployed when new changes are pushed to the source repository.
+
+![qnabot](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/images/botframeworkarch.png)
 
 
 
