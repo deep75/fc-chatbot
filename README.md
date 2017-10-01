@@ -2,6 +2,8 @@
 
 ![enter image description here](https://2.bp.blogspot.com/-V3CtS3b1HAc/WWzaWvwJzVI/AAAAAAAABUc/0Od0YddweRUVbOt5OyRbd-6AhJJUwGQ1ACLcBGAs/s1600/Title.png)
 
+![enter image description here](https://image.slidesharecdn.com/cortanawithoutcn-160421070246/95/cortana-a-microsoft-virtual-personal-assistant-19-638.jpg?cb=1461222431)
+
 
 ## Use Azure app service editor
 
