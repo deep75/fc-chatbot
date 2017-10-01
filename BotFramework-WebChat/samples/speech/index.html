@@ -91,10 +91,10 @@
       // // Option 3: Cognitive Services speech recognition using API key (cross browser, speech priming support)
       //
       const speechOptions = {
-        speechRecognizer: new CognitiveServices.SpeechRecognizer({ subscriptionKey: 'cf6d775e39634382ac671a6f34ca1a93' }),
+        speechRecognizer: new CognitiveServices.SpeechRecognizer({ subscriptionKey: 'SPEECH_API_KEY' }),
         speechSynthesizer: new CognitiveServices.SpeechSynthesizer({
           gender: CognitiveServices.SynthesisGender.Female,
-          subscriptionKey: 'cf6d775e39634382ac671a6f34ca1a93',
+          subscriptionKey: 'SPEECH_API_KEY',
           voiceName: 'Microsoft Server Speech Text to Speech Voice (fr-FR, Julie, Apollo)'
         })
       };
