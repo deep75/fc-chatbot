@@ -7,7 +7,7 @@ var rootFolder = path.resolve('.');
 var zipPath = path.resolve(rootFolder, '../fc-chatbot.zip');
 var kuduApi = 'https://fc-chatbot.scm.azurewebsites.net/api/zip/site/wwwroot';
 var userName = '$fc-chatbot';
-var password = 'dyl3uPYzK9Rk0ejwqu7pyzpn3jLEoNucNFw2Xl0hSsQpaXQcdlnlScCeq2W0';
+var password = '$password';
 
 function uploadZip(callback) {
   fs.createReadStream(zipPath).pipe(request.put(kuduApi, {
